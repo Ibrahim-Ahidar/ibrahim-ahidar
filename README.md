@@ -74,7 +74,7 @@
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibrahim-ahidar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=ibrahim-ahidar&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ibrahim-ahidar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="streak graph"  />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-ahidar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
@@ -98,7 +98,6 @@
   
 <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-ahidar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
-<img src="https://komarev.com/ghpvc/?username=ibrahim-ahidar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
