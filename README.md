@@ -38,11 +38,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim-ahidar/ibrahim-ahidar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahim-ahidar/ibrahim-ahidar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ibrahim-ahidar/ibrahim-ahidar/output/pacman-contribution-graph.svg">
-</picture>
+<!-- removed the Pac-Man contribution graph block -->
 
 ###
 
