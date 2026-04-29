@@ -25,7 +25,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="mui" />
 
-<br/><br/>
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs" />
@@ -34,6 +33,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb" />
 
+<br/>
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
 <img width="12" />
