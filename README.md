@@ -34,8 +34,6 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb" />
 
-<br/><br/>
-
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
 <img width="12" />
@@ -49,11 +47,11 @@
 
 ## 💡 About Me
 
-- 🔭 Currently building **full-stack web applications** using React, Node.js, and MongoDB  
-- ⚙️ Experience with **REST APIs, authentication (JWT), and backend architecture**  
-- 🧠 Strong focus on writing **clean, scalable, and maintainable code**  
-- 🚀 Fast learner, always exploring new technologies and best practices  
-- 🤝 Enjoy working in teams and solving real-world problems  
+-  Currently building **full-stack web applications** using React, Node.js, and MongoDB  
+-  Experience with **REST APIs, authentication (JWT), and backend architecture**  
+-  Strong focus on writing **clean, scalable, and maintainable code**  
+-  Fast learner, always exploring new technologies and best practices  
+-  Enjoy working in teams and solving real-world problems  
 
 ---
 
