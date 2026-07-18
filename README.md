@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahidaribrahim77@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212689014353)
 
-📍 Based between Madrid, Spain and Tetouan, Morocco · Open to remote opportunities and freelance projects
+📍 Based between Madrid, Spain · Open to remote opportunities and freelance projects
 
 </div>
 
