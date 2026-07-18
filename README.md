@@ -49,7 +49,7 @@ I build complete web products—from responsive React interfaces to secure REST 
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite" />
 <img width="12" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="60" alt="Cursor" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="60" alt="cursor" />
 
 </div>
 
