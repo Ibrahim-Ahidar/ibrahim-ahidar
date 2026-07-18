@@ -1,10 +1,8 @@
 <div align="center">
-  
-#  Hi, I'm Ibrahim Ahidar👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Building+Modern+Web+Apps;Always+Learning+and+Improving" alt="Typing SVG" />
+# Hi, I'm Ibrahim Ahidar 👋
 
-</div>
+### Full-Stack Developer building secure, user-focused web applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrahim-ahidar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ahidar/)
@@ -14,8 +12,6 @@
 📍 Based between Madrid, Spain and Tetouan, Morocco · Open to remote opportunities and freelance projects
 
 </div>
-
-### Full Stack Developer | React • Node.js • MongoDB | Building Scalable Web Applications
 
 ---
 
