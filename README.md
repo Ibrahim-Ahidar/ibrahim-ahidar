@@ -2,8 +2,6 @@
   
 #  Hi, I'm Ibrahim Ahidar👋
 
-### Full Stack Developer | React • Node.js • MongoDB | Building Scalable Web Applications
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Node.js+%2B+MongoDB;Building+Modern+Web+Apps;Always+Learning+and+Improving" alt="Typing SVG" />
 
 </div>
@@ -16,6 +14,8 @@
 📍 Based between Madrid, Spain and Tetouan, Morocco · Open to remote opportunities and freelance projects
 
 </div>
+
+### Full Stack Developer | React • Node.js • MongoDB | Building Scalable Web Applications
 
 ---
 
