@@ -42,7 +42,14 @@ I build complete web products—from responsive React interfaces to secure REST 
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&perline=5" alt="Git, GitHub, Vercel, Postman and VS Code" />
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="github" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="60" alt="Cursor" />
 
 </div>
 
