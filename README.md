@@ -109,9 +109,6 @@ Multilingual weather dashboard with automatic geolocation and secure API handlin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ahidar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ibrahim's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Ahidar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ibrahim's most used languages" />
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Ahidar&theme=tokyo-night&hide_border=true&area=true" alt="Ibrahim's GitHub contribution graph" />
 
 </div>
