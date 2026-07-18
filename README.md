@@ -53,7 +53,8 @@ I build complete web products—from responsive React interfaces to secure REST 
 
 </div>
 <br />
-**Also working with:** REST APIs · Sequelize · Swagger/OpenAPI · Cloudinary · C · Supabase · JWT · OAuth · i18next · Context API · useReducer · VB.NET · WinForms · Microsoft Access · Whisper · Ollama · FFmpeg
+
+Also working with:  REST APIs · Sequelize · Swagger/OpenAPI · Cloudinary · C · Supabase · JWT · OAuth · i18next · Context API · useReducer · VB.NET · WinForms · Microsoft Access · Whisper · Ollama · FFmpeg
 
 ---
 
