@@ -52,8 +52,8 @@ I build complete web products—from responsive React interfaces to secure REST 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor" height="60" alt="cursor" />
 
 </div>
-
-**Also working with:** REST APIs · Sequelize · Swagger/OpenAPI · Cloudinary · Supabase · JWT · OAuth · i18next · Context API · useReducer · VB.NET · WinForms · Microsoft Access · Whisper · Ollama · FFmpeg
+<br />
+**Also working with:** REST APIs · Sequelize · Swagger/OpenAPI · Cloudinary · C · Supabase · JWT · OAuth · i18next · Context API · useReducer · VB.NET · WinForms · Microsoft Access · Whisper · Ollama · FFmpeg
 
 ---
 
