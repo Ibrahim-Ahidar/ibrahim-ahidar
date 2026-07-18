@@ -43,7 +43,7 @@ I build complete web products—from responsive React interfaces to secure REST 
 ### Tools & Platforms
 
 <!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="60" alt="github" />
 <img width="12" />
