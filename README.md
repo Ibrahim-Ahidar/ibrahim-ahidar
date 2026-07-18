@@ -1,77 +1,124 @@
-<h1 align="center">Hi, I'm Ibrahim Ahidar 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack JavaScript Developer</h3>
+# Hi, I'm Ibrahim Ahidar 👋
 
-<p align="center">
-  I build responsive, user-friendly web applications with React, Node.js, Express, and MongoDB.
-</p>
+### Full-Stack Developer building secure, user-focused web applications
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-ahidar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ahidaribrahim77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://ibrahim-ahidar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ahidar/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahidaribrahim77@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212689014353)
+
+📍 Based between Madrid, Spain and Tetouan, Morocco · Open to remote opportunities and freelance projects
+
+</div>
 
 ---
 
-## About me
+## About Me
 
-- Building full-stack applications with the **MERN stack**
-- Creating responsive interfaces with **React, TypeScript, Tailwind CSS, and Material UI**
-- Developing **REST APIs** with authentication, authorization, and protected routes
-- Managing React state with **Context API and useReducer**
-- Focused on accessible UI, clean code, and maintainable application architecture
-- Comfortable building multilingual experiences with **i18next**, including Arabic RTL layouts
+I build complete web products—from responsive React interfaces to secure REST APIs, databases, authentication, and production deployments. I care about clean architecture, accessible user experiences, and solving practical business problems.
 
-## Tech stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-**Backend & database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-## Featured projects
-
-### 🔐 Full-Stack Authentication App
-
-- Access and refresh token authentication with React, Node.js, Express, and MongoDB
-- Secure password hashing with bcrypt
-- Role-based authorization and protected routes
-
-### 🛒 Handmade Marketplace
-
-- Responsive React marketplace with product filtering and cart management
-- Centralized state management using Context API
-- Styled with Tailwind CSS
-
-### 🌦️ Multilingual Weather App
-
-- Weather search and geolocation using external APIs
-- Arabic and English support with i18next
-- Responsive RTL and LTR interfaces
+- 🔭 Building full-stack applications with **React, TypeScript, Node.js, Express, MongoDB, and PostgreSQL**
+- 🔐 Experienced with **JWT, httpOnly refresh cookies, Google OAuth, role-based access, rate limiting, and input validation**
+- 🌍 Creating multilingual applications in **English, French, Spanish, and Arabic**, including RTL support
+- 🤖 Exploring local AI workflows with **Whisper, Ollama, and FFmpeg**
+- 🚀 Deploying applications with **Vercel, Render, Supabase, and Cloudinary**
+- 💬 Ask me about full-stack development, REST APIs, authentication, or responsive UI
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-ahidar&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Ibrahim's most used languages" />
-</p>
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui,vite&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI and Vite" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,php&perline=6" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL and PHP" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&perline=5" alt="Git, GitHub, Vercel, Postman and VS Code" />
+
+</div>
+
+**Also working with:** REST APIs · Sequelize · Swagger/OpenAPI · Cloudinary · Supabase · JWT · OAuth · i18next · Context API · useReducer · VB.NET · WinForms · Microsoft Access · Whisper · Ollama · FFmpeg
+
+---
+
+## Featured Projects
+
+### 🛍️ [HandeMade V2](https://hande-made-v2.vercel.app)
+Full-stack marketplace connecting artisans with customers.
+
+- Buyer cart and checkout, seller shops and analytics, and an admin moderation panel
+- JWT sessions with httpOnly refresh cookies, Google OAuth, signup OTP, and password reset
+- Product management and Cloudinary image uploads with secure Express middleware
+- **Stack:** React 19, Node.js, Express 5, MongoDB, Tailwind CSS, Chart.js
+- **Code:** [Client](https://github.com/Ibrahim-Ahidar/HandeMade-V2-client) · [Server](https://github.com/Ibrahim-Ahidar/HandeMade-V2-Server)
+
+### 👓 [OptiCloud](https://opti-cloud.vercel.app)
+Role-based optical clinic management platform.
+
+- Manages patients, prescriptions, appointments, inventory, and PDF quotes
+- Separate workflows for administrators, opticians, and reception staff
+- Secure API with JWT, rate limiting, Swagger documentation, and PostgreSQL
+- **Stack:** React 19, Material UI, Node.js, Express, PostgreSQL, Sequelize, Supabase
+- **Code:** [Client](https://github.com/Ibrahim-Ahidar/OptiCloud-clients) · [Server](https://github.com/Ibrahim-Ahidar/OptiCloud-Server)
+
+### 🎬 [Clip-Cuter](https://github.com/Ibrahim-Ahidar/Clip-Cuter)
+Local-first AI pipeline that converts long YouTube videos into scored, subtitled vertical shorts.
+
+- Transcribes with Whisper, evaluates clips with Ollama, and renders 9:16 video with FFmpeg
+- Runs locally without cloud APIs or API keys
+- **Stack:** TypeScript, Node.js, Whisper, Ollama, FFmpeg
+
+### 🌦️ [Weather App](https://weather-app-77.vercel.app)
+Multilingual weather dashboard with automatic geolocation and secure API handling.
+
+- English, French, Spanish, and Arabic UI with RTL support
+- Context + `useReducer` state architecture and responsive Material UI
+- OpenWeather requests protected behind a Vercel serverless API proxy
+- **Stack:** React, Material UI, Axios, i18next, Vercel
+- **Code:** [GitHub Repository](https://github.com/Ibrahim-Ahidar/Weather-App)
+
+<details>
+<summary><strong>More projects</strong></summary>
+<br />
+
+- 💳 [Loan Calculator](https://loan-app-jade.vercel.app) — Interactive amortized loan calculations with reverse duration estimation. [Source](https://github.com/Ibrahim-Ahidar/Loan-app)
+- 🚗 [NettoCar](https://github.com/Ibrahim-Ahidar/NettoCar) — Desktop management system for car washes and garages using VB.NET, WinForms, and Access.
+- 🏋️ [ConnectFit](https://ibrahim-ahidar.github.io/ConnectFit/) — Responsive fitness products and coaching website built with semantic HTML, CSS, and JavaScript. [Source](https://github.com/Ibrahim-Ahidar/ConnectFit)
+
+</details>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Ahidar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ibrahim's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Ahidar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ibrahim's most used languages" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-Ahidar&theme=tokyo-night&hide_border=true&area=true" alt="Ibrahim's GitHub contribution graph" />
+
+</div>
+
+> Language statistics describe public repository code and do not represent overall proficiency.
+
+---
+
+## Let's Build Something
+
+I'm available for **full-stack roles, remote opportunities, and freelance projects**. If you have an idea, a product to improve, or a technical challenge to solve, feel free to reach out.
+
+<div align="center">
+
+**[View my portfolio](https://ibrahim-ahidar.vercel.app) · [Connect on LinkedIn](https://www.linkedin.com/in/ibrahim-ahidar/) · [Send an email](mailto:ahidaribrahim77@gmail.com)**
+
+</div>
