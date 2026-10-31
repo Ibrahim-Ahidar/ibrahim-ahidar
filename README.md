@@ -60,6 +60,23 @@ Also working with:  REST APIs · Sequelize · Swagger/OpenAPI · Cloudinary · C
 
 ## Featured Projects
 
+### 💬 [Pulse](https://the-ring-five.vercel.app)
+Username-first realtime chat app for web, desktop, and mobile.
+
+- Direct messages and groups with typing indicators, presence, reactions, media, and search
+- End-to-end encryption with QR device linking and security code verification
+- Shared core and i18n packages across the Next.js, Electron, and React Native clients
+- **Stack:** Next.js, React 19, React Native (Expo), Electron, TypeScript, Supabase, PostgreSQL
+- **Code:** [GitHub Repository](https://github.com/Ibrahim-Ahidar/the-Ring)
+
+### 🏢 [Syndexa](https://syndexa.vercel.app)
+Condo management SaaS replacing paper, Excel, and WhatsApp for building managers (syndics).
+
+- Manages residences, owners, apartments, monthly contributions, payments, and unpaid fees
+- Gives each owner their own balance and PDF receipts, with role-based access control
+- Trilingual interface in French, English, and Arabic
+- **Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS
+
 ### 🛍️ [HandeMade V2](https://hande-made-v2.vercel.app)
 Full-stack marketplace connecting artisans with customers.
 
